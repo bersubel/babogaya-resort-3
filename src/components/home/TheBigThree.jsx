@@ -9,7 +9,7 @@ const slidesData = [
     label: "01. The Estate",
     title: ["Sanctuary in", "the Wild"],
     desc: "A millennium-old castle transformed into a private haven.",
-    img: "/media/l1.PNG",
+    img: "/media/l1.png",
     btn: "Discover Stay"
   },
   {
